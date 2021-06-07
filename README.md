@@ -14,7 +14,7 @@ _I am what is known as a fullstack web developper_
 _Lately Typescript, ReactJS, Rust and NodeJS_
 
 - 🔥 What excites you the most lately? 
-_Blockchain, Rust and Linux_
+_Blockchain, Rust, Web3.0, Linux
 
 - ⚡ Fun fact? 
 _Linux user since 11 yo_
