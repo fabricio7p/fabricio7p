@@ -20,8 +20,8 @@ Every project idea that pops in my head are naturally oriented to help and be us
 - Rust
 
 #### ⚡ Fun facts? 
-- Linux user since 11 y.o. Back then i could barely compile a package but i used to spent my whole day distro hopping and customizing my desktop
-- I can't finish a project.
+- Linux user since 11 y.o. Back then i could barely compile a package but i used to spent a whole day distro hopping and customizing my desktop
+- Arch and Gentoo btw
 
 [![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabricio7p&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
