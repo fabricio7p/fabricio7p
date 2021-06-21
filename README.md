@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fabricio Demattê, ex data science student that should be a software engineer sooner but only realised his passion for development at university.
+My name is Fabricio Demattê, ex data science student that should be a software engineer sooner but only realized his passion for development at university.
 Every project idea that pops in my head are naturally oriented to help and be useful to others, that's why I'm so into open source today. 
 
 #### 👷‍♂️ Who are you now?
